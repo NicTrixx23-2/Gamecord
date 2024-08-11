@@ -1,0 +1,9 @@
+{
+    "name": "GameLauncher",
+    "version": "1.0.0",
+    "description": "Adds a button to launch a Tetris game.",
+    "author": "YourName",
+    "license": "MIT",
+    "main": "plugin.js"
+  }
+  
